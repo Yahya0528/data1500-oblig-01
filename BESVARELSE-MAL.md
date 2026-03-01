@@ -1,10 +1,10 @@
 # Besvarelse - Refleksjon og Analyse
 
-**Student:** [Ditt navn]
+**Student:** [Yahya Abikar]
 
-**Studentnummer:** [Ditt studentnummer]
+**Studentnummer:** [407559]
 
-**Dato:** [Innleveringsdato]
+**Dato:** [1, Mars]
 
 ---
 
